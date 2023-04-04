@@ -1,0 +1,18 @@
+html {
+  min-height: 100%;
+}
+
+body {
+  background-image: url("https://img1.freepng.es/20171221/toq/dinosaur-png-pic-5a3b47f84c4167.8920312115138344883124.jpg");
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  min-height: 100%;
+}
+
+#ipsum {
+  display: none;
+}
